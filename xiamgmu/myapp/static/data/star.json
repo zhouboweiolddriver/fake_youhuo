@@ -1,0 +1,31 @@
+[
+	{
+	"img":"static/img/star/star_1.jpg",
+	"title":"独立态度、好玩、graphic&design",
+	"src1":"static/img/star/star_2.jpg",
+	"src2":"static/img/star/star_3.jpg"
+	},{
+	"img":"static/img/star/star_1.jpg",
+	"title":"独立态度、好玩、graphic&design",
+	"src1":"static/img/star/star_4.jpg",
+	"src2":"static/img/star/star_5.jpg"
+	},{
+	"img":"static/img/star/star_1.jpg",
+	"title":"独立态度、好玩、graphic&design",
+	"src1":"static/img/star/star_6.jpg",
+	"src2":"static/img/star/star_7.jpg"
+
+	},{
+	"img":"static/img/star/star_1.jpg",
+	"title":"独立态度、好玩、graphic&design",
+	"src1":"static/img/star/star_2.jpg",
+	"src2":"static/img/star/star_3.jpg"
+
+	},{
+	"img":"static/img/star/star_1.jpg",
+	"title":"独立态度、好玩、graphic&design",
+	"src1":"static/img/star/star_4.jpg",
+	"src2":"static/img/star/star_5.jpg"
+
+	}
+]

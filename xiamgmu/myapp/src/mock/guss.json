@@ -1,0 +1,81 @@
+{
+	"code":"0",
+	"message":"请求成功！",
+	"list":[
+		{
+      		"imgSrc": "//img13.static.yhbimg.com/goodsimg/2017/03/03/15/027faad1cb6ab7b846f6539c73f40db995.jpg?imageMogr2/thumbnail/235x314/extent/235x314/background/d2hpdGU=/position/center/quality/60/format/webp",
+      		"descript": "DUSTY 男式背部绣花长袖衬衫",
+                  "marketid":"0",
+                  "marketname":"0号店",
+                  "price":"¥314.00",
+                  "id":"1",
+                  "showlist":["//img12.static.yhbimg.com/goodsimg/2017/03/03/15/027faad1cb6ab7b846f6539c73f40db995.jpg?imageMogr2/thumbnail/450x600/extent/450x600/background/d2hpdGU=/position/center/quality/60",
+                        "//img11.static.yhbimg.com/goodsimg/2017/03/03/14/015f41777556366f1de495e64258714115.jpg?imageMogr2/thumbnail/450x600/extent/450x600/background/d2hpdGU=/position/center/quality/60",
+                        "//img13.static.yhbimg.com/goodsimg/2017/03/03/14/0294537bc208a62b05dc67f0778b67b9c4.jpg?imageMogr2/thumbnail/450x600/extent/450x600/background/d2hpdGU=/position/center/quality/60",
+                        "//img13.static.yhbimg.com/goodsimg/2017/03/03/15/025f2ee2f3458539205f1f814c38db6b7f.jpg?imageMogr2/thumbnail/450x600/extent/450x600/background/d2hpdGU=/position/center/quality/60",
+                        "//img13.static.yhbimg.com/goodsimg/2017/03/03/15/0247ffef99349a5924b4723e4f7072aa94.jpg?imageMogr2/thumbnail/450x600/extent/450x600/background/d2hpdGU=/position/center/quality/60"]
+      	},
+      	{
+                  "imgSrc": "//img13.static.yhbimg.com/goodsimg/2016/10/16/17/02a94f5348a208ae728ee46dd951b43ea0.jpg?imageMogr2/thumbnail/235x314/extent/235x314/background/d2hpdGU=/position/center/quality/60/format/webp",
+                  "descript": "PUMA X UEG TechJacket 梭织外套",
+                  "price":"¥2349.00",
+                  "id":"2",
+                  "marketid":"1",
+                  "marketname":"1号店"
+            },
+      	{
+                  "imgSrc": "//img11.static.yhbimg.com/goodsimg/2017/04/13/09/01e1c5bb28d38fa5f7446662d30db4e59b.jpg?imageMogr2/thumbnail/235x314/extent/235x314/background/d2hpdGU=/position/center/quality/60/format/webp",
+                  "descript": "KAWS Companion 艺术公仔 -『红色限量版』",
+                  "marketid":"2",
+                  "marketname":"2号店",
+                  "price":"¥1599.00",
+                  "id":"3"
+            },
+      	{
+                  "imgSrc": "//img11.static.yhbimg.com/goodsimg/2016/11/25/13/012de2dc417c8ce7d0f36c420e5c56c0dd.jpg?imageMogr2/thumbnail/235x314/extent/235x314/background/d2hpdGU=/position/center/quality/60/format/webp",
+                  "descript": "HUMAN MADE 人脸披萨图案印花红色卫衣",
+                  "marketid":"3",
+                  "marketname":"3号店",
+                  "price":"¥1895.00",
+                  "id":"4"
+            },
+      	{
+                  "imgSrc": "//img13.static.yhbimg.com/goodsimg/2017/01/23/16/02d66972cc4c9d06217beda04274433517.jpg?imageMogr2/thumbnail/235x314/extent/235x314/background/d2hpdGU=/position/center/quality/60/format/webp",
+                  "descript": "Wade Chinese New Year新年款篮球鞋",
+                  "marketid":"4",
+                  "marketname":"4号店",
+                  "price":"¥1199.00",
+                  "id":"5"
+            },
+      	{
+                  "imgSrc": "//img13.static.yhbimg.com/goodsimg/2017/01/23/16/02d66972cc4c9d06217beda04274433517.jpg?imageMogr2/thumbnail/235x314/extent/235x314/background/d2hpdGU=/position/center/quality/60/format/webp",
+                  "descript": "Wade Chinese New Year新年款篮球鞋",
+                  "marketid":"5",
+                  "marketname":"5号店",
+                  "price":"¥1199.00",
+                  "id":"6"
+            },
+      	{
+                  "imgSrc": "//img13.static.yhbimg.com/goodsimg/2017/01/23/16/02d66972cc4c9d06217beda04274433517.jpg?imageMogr2/thumbnail/235x314/extent/235x314/background/d2hpdGU=/position/center/quality/60/format/webp",
+                  "descript": "Wade Chinese New Year新年款篮球鞋",
+                  "marketid":"6",
+                  "marketname":"6号店",
+                  "price":"¥1199.00",
+                  "id":"7"
+            },
+      	{
+                  "imgSrc": "//img13.static.yhbimg.com/goodsimg/2017/01/23/16/02d66972cc4c9d06217beda04274433517.jpg?imageMogr2/thumbnail/235x314/extent/235x314/background/d2hpdGU=/position/center/quality/60/format/webp",
+                  "descript": "Wade Chinese New Year新年款篮球鞋",
+                  "marketid":"7",
+                  "marketname":"7号店",
+                  "price":"¥1199.00"
+            },
+      	{
+                  "imgSrc": "//img13.static.yhbimg.com/goodsimg/2017/01/23/16/02d66972cc4c9d06217beda04274433517.jpg?imageMogr2/thumbnail/235x314/extent/235x314/background/d2hpdGU=/position/center/quality/60/format/webp",
+                  "descript": "Wade Chinese New Year新年款篮球鞋",
+                  "marketid":"8",
+                  "marketname":"8号店",
+                  "price":"¥1199.00"
+            }
+	]
+}
